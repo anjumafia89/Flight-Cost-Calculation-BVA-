@@ -1,4 +1,4 @@
-# Flight-Cost-Calculation-BVA-
+# Flight-Cost-Calculation-Test Cases (BVA)-
 Flight Cost Calculation Using Black Box Testing(BVA)
 
 I used the QASE tool to create test cases and imported CSV files, utilizing Black Box Testing (BVA) for creating the test cases. There are 3 suites and 540 test cases.
